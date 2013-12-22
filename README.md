@@ -1,6 +1,8 @@
 manishsuwal.com.np
 ==================
 
+![Manish Suwal](http://manishsuwal.com.np/wp-content/uploads/2013/12/manishsuwal_background.jpg)
+
 Personal portfolio bio website for manishsuwal.com.np. This is my personal project but feel free to use it for your website.
 
 I've made this a WordPress theme and used a page template called `page_manishsuwal` so that I can make it a static front page. Everything is inside `page_manishsuwal`, including the CSS.
