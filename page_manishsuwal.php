@@ -9,7 +9,7 @@ Template Name: Manish Suwal
 <head>
 <meta name="description" content="Manish Suwal's Personal Bio"/>
 <link rel="author" href="https://plus.google.com/u/0/118039990517392424384"/>
-<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel='shortcut icon' type='image/x-icon' href='http://enwil.com/wp-content/uploads/2013/09/Favicon.ico' />
 <title>Manish Suwal 'Enwil'</title>
 <style type='text/css'>
 	body {
@@ -190,7 +190,7 @@ Template Name: Manish Suwal
 			<br>
 			<li>I used to hate writing, now I write everyday and <a href="http://enwil.com" target='_blank'>blog weekly</a></li>
 			<br>
-			<li>I write for CHIC Magazine<a href='http://enwil.com/wp-content/uploads/2013/09/CHIC-Fashion-Magazine-Fashion-Blogging.png' target='_blank'>(Sep-Oct Issue)</a><a href='http://enwil.com/wp-content/uploads/2013/12/CHIC-Fashion-Magazine-Haute-Couture.jpg' target='_blank'>(Dec-Jan Issue)</a></li>
+			<li>I write for CHIC Magazine <a href='http://enwil.com/wp-content/uploads/2013/09/CHIC-Fashion-Magazine-Fashion-Blogging.png' target='_blank'>(Sep-Oct Issue) </a><a href='http://enwil.com/wp-content/uploads/2013/12/CHIC-Fashion-Magazine-Haute-Couture.jpg' target='_blank'>(Dec-Jan Issue)</a></li>
 			<br>
 			<li>I have been mentioned on Niall's book, <a href='http://www.amazon.com/gp/product/B009UXBATS/ref=as_li_ss_tl?ie=UTF8&tag=enwil-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B009UXBATS' target='_blank'>Disrupting the Rabblement</a></li>
 			<br>
