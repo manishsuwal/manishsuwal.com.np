@@ -131,10 +131,10 @@ Template Name: Manish Suwal
 			<li>Stoicism</li>
 			<li>Philosophy</li>
 			<li>Self-Discipline</li>
-			<li>Self-Education</li>
+			<li><a href="http://enwil.com/educate-yourself" target="_blank">Self-Education</a></li>
 			<li><a href="http://enwil.com/dvorak" target="_blank">Dvorak</a></li>
-			<li>Dotsies</li>
-			<li>Website building</li>
+			<li><a href="http://dotsies.org/" target="_blank">Dotsies</a></li>
+			<li><a href="http://enwil.com/services" target="_blank">Website building</a></li>
 			<li>Meeting old friends</li>
 			<li>Working hard</li>
 			<li>Rapport building</li>
@@ -173,17 +173,17 @@ Template Name: Manish Suwal
 		<ul>
 			<li>Instead of QWERTY, I use <a href="http://enwil.com/dvorak" target="_blank">Dvorak</a> keyboard layout to type</li>
 			<br>
-			<li>I don't watch TV</li>
+			<li>I quit watching Television</li>
 			<br>
 			<li>I don't play any type of computer or video games</li>
 			<br>
-			<li><a href="http://blog.seanbonner.com/2010/02/01/ive-given-up-using-soap/" target="_blank">I don't use soap or shampoo while bathing</a></li>
+			<li><a href="http://blog.seanbonner.com/2010/02/01/ive-given-up-using-soap/" target="_blank">I’ve given up using soap & shampoo forever</a></li>
 			<br>
 			<li>I can read <a href="http://dotsies.org" target='_blank'>dotsies</a></li>
 			<br>
 			<li>My most popular blog post is <a href="http://enwil.com/aghori-baba" target="_blank">Lessons From Aghori Baba (Why It's Dangerous to Know Your Future)</a></li>
 			<br>
-			<li>I hate chocolates and sugar. I quit sugar.</li>
+			<li>I quit sugar and chocolates</li>
 			<br>
 			<li>I used to hate and fail at computer, now all I do is program at computer</li>
 			<br>
@@ -195,9 +195,9 @@ Template Name: Manish Suwal
 			<br>
 			<li>I've made 30 websites till date + counting. 9 on 2012 and rest on 2013.</li>
 			<br>
-			<li>I've revamped TED X speaker's website</li>
+			<li>I've revamped <a href="http://storytellerkp.com" target='_blank'>TED X speaker's</a> website</li>
 			<br>
-			<li>My most influential person on the internet 'Niall Doherty' is my friend now.</li>
+			<li>My most influential person on the internet '<a href="http://ndoherty.com">Niall Doherty</a>' is my friend now.</li>
 		</ul>
 	</div>
 	<div class='interesting box'>
