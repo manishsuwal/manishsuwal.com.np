@@ -198,7 +198,7 @@ Template Name: Manish Suwal
 			<br>
 			<li>I've revamped <a href="http://storytellerkp.com" target='_blank'>TED X speaker's</a> website</li>
 			<br>
-			<li>My most influential person on the internet '<a href="http://ndoherty.com">Niall Doherty</a>' is my friend now.</li>
+			<li>My most influential person on the internet '<a href="http://ndoherty.com" target='_blank'>Niall Doherty</a>' is my friend now.</li>
 		</ul>
 	</div>
 	<div class='interesting box'>
