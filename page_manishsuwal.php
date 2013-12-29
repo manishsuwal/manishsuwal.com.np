@@ -9,6 +9,7 @@ Template Name: Manish Suwal
 <head>
 <meta name="description" content="Manish Suwal's Personal Bio"/>
 <link rel="author" href="https://plus.google.com/u/0/118039990517392424384"/>
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
 <title>Manish Suwal 'Enwil'</title>
 <style type='text/css'>
 	body {
