@@ -153,6 +153,8 @@ Template Name: Manish Suwal
 		<div class='single'>Favorite Books</div>
 		<div class='explain'><a href='http://www.amazon.com/gp/product/B0040JHNQG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0040JHNQG&linkCode=as2&tag=enwil-20' target='_blank'>A Guide to the Good Life: The Ancient Art of Stoic Joy</a></div>
 		<br>
+		<div class='explain'><a href='http://www.amazon.com/Musashi-Epic-Novel-Samurai-ebook/dp/B00CD428BU/ref=dp_kinw_strp_1?tag=enwil-20' target='_blank'>Musashi</a></div>
+		<br>
 		<div class='explain'><a href='http://www.amazon.com/gp/product/B00873W3X4/ref=as_li_ss_tl?ie=UTF8&tag=enwil-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00873W3X4' target='_blank'>Freedom From the Known</a></div>
 		<br>
 		<div class='explain'><a href='http://www.amazon.com/gp/product/B007A4SDCG/ref=as_li_ss_tl?ie=UTF8&tag=enwil-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007A4SDCG' target='_blank'>The War of Art</a></div>
