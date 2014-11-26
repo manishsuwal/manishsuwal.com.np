@@ -9,7 +9,7 @@ Template Name: Manish Suwal
 <head>
 <meta name="description" content="Manish Suwal's Personal Bio"/>
 <link rel="author" href="https://plus.google.com/u/0/118039990517392424384"/>
-<link rel='shortcut icon' type='image/x-icon' href='http://enwil.com/wp-content/uploads/2013/09/Favicon.ico' />
+<link rel='shortcut icon' type='image/x-icon' href='http://manishsuwal.com.np/wp-content/uploads/2014/02/manishsuwal_favicon.ico' />
 <title>Manish Suwal 'Enwil'</title>
 <style type='text/css'>
 	body {
@@ -100,19 +100,22 @@ Template Name: Manish Suwal
 	<div class='profile box'>
 
 		<div class='single'>Co-Founder of DevotePress</div>
-		<div class='explain'><a href='http://devotepress.com' target="_blank">DevotePress</a> is an awesome tutorial based website solely dedicated to WordPress. It provides quality tutorials, tips, tricks & hack to help all level of WordPress users - beginners to programmers.</div>
+		<div class='explain'><a href='http://devotepress.com/devotepress' target="_blank">DevotePress</a> is an awesome tutorial based website solely dedicated to WordPress. It provides quality tutorials, tips, tricks & hack to help all level of WordPress users - beginners to programmers.</div>
 
 		<div class='single'>WordPress Theme Developer</div>
-		<div class='explain'>I have developed <a href="http://enwil.com/willingness" target="_blank">willingness</a> and <a href="http://enwil.com/enormous" target="_blank">enormous</a> WordPress themes. Willingness is available on <a href="http://wordpress.org/themes/willingness" target="_blank">WordPress theme directory</a></div>
+		<div class='explain'>I have developed <a href="http://enwil.com/themes/willingness" target="_blank">willingness</a> and <a href="http://enwil.com/themes/enormous" target="_blank">enormous</a> WordPress themes. Willingness is available on <a href="http://wordpress.org/themes/willingness" target="_blank">WordPress theme directory</a></div>
+
+    <div class='single'>Web Mastermind & Strategist at <a href='http://travelbloggingcalendar.com/the-team' target='_blank'>Travel Blogging Calendar</a></div>
+    <div class='explain'>I have been working on <a href='http://travelbloggingcalendar.com' target='_blank'>Travel Blogging Calendar</a> to get it's online presence in shape. Getting my name tied to a good cause like this has been a major charity milestone to me.</div>
 
 		<div class='single'>Contributor at Independent Publisher</div>
 		<div class='explain'><a href='http://independentpublisher.me' target="_blank">Independent Publisher</a> is a beautiful reader-focused WordPress theme designed for independent writers.</div>
 
 		<div class='single'>Blogger at <a href='http://enwil.com'>Enwil.com</a></div>
 		<div class='explain'>
-			I started blogging on 2012 July to track myself progress overtime. I post once a week - mostly about practical philosophy and life.
+			I started blogging on 2012 July to track myself progress overtime. I post once a week or daily - mostly about practical philosophy and life.
 
-			I have been <a href="http://blog.nepal-travel.org/nepali-blogger-enwil-interview/" target="_blank">featured and interviewed on Nepal Travel</a> as a blogger.
+			I have been <a href="http://blog.nepal-travel.org/nepali-blogger-enwil-interview/" target="_blank">featured and interviewed on Nepal Travel</a> and <a href="http://greatbigscaryworld.com/one-second-everyday-for-five-months/" target="_blank">Great Big Scary World</a> as a blogger.
 		</div>
 <div class='hr'></div>
 
@@ -120,6 +123,7 @@ Template Name: Manish Suwal
 		<div class='single'>Things I'm Learning</div>
 		<ul>
 			<li>Git</li>
+			<li>Programmer's Dvorak</li>
 			<li>Programming</li>
 			<li>Spanish</li>
 			<li>Social Dynamics</li>
@@ -134,6 +138,7 @@ Template Name: Manish Suwal
 			<li>Self-Discipline</li>
 			<li><a href="http://enwil.com/educate-yourself" target="_blank">Self-Education</a></li>
 			<li><a href="http://enwil.com/dvorak" target="_blank">Dvorak</a></li>
+			<li><a href='http://www.kaufmann.no/roland/dvorak/index.html' target='_blank'>Programmer's Dvorak</a></li>
 			<li><a href="http://dotsies.org/" target="_blank">Dotsies</a></li>
 			<li><a href="http://enwil.com/services" target="_blank">Website building</a></li>
 			<li>Meeting old friends</li>
@@ -174,6 +179,8 @@ Template Name: Manish Suwal
 		<ul>
 			<li>Instead of QWERTY, I use <a href="http://enwil.com/dvorak" target="_blank">Dvorak</a> keyboard layout to type</li>
 			<br>
+			<li>I take <a href='http://enwil.com/one-second-everyday' target='_blank'>one second</a> video everyday. <a href='http://youtu.be/UGSA_ZCDiHg' target='_blank'>Here's the one second video compilation from Sep 13, 2013 to Feb 13, 2014</a></li>
+			<br>
 			<li>I quit watching Television</li>
 			<br>
 			<li>I don't play any type of computer or video games</li>
@@ -190,11 +197,11 @@ Template Name: Manish Suwal
 			<br>
 			<li>I used to hate writing, now I write everyday and <a href="http://enwil.com" target='_blank'>blog weekly</a></li>
 			<br>
-			<li>I write for CHIC Magazine <a href='http://enwil.com/wp-content/uploads/2013/09/CHIC-Fashion-Magazine-Fashion-Blogging.png' target='_blank'>(Sep-Oct Issue) </a><a href='http://enwil.com/wp-content/uploads/2013/12/CHIC-Fashion-Magazine-Haute-Couture.jpg' target='_blank'>(Dec-Jan Issue)</a></li>
+			<li>I write for CHIC Magazine <a href='http://enwil.com/wp-content/uploads/2013/09/CHIC-Fashion-Magazine-Fashion-Blogging.png' target='_blank'>(Sep-Oct Issue) </a><a href='http://enwil.com/wp-content/uploads/2013/12/CHIC-Fashion-Magazine-Haute-Couture.jpg' target='_blank'>(Dec-Jan Issue) </a><a href='http://enwil.com/wp-content/uploads/2014/02/CHIC-Fashion-Magazine-How-to-Declutter-Your-Wardrobe.jpg' target='_blank'>(Jan-Feb Issue)</a></li>
 			<br>
 			<li>I have been mentioned on Niall's book, <a href='http://www.amazon.com/gp/product/B009UXBATS/ref=as_li_ss_tl?ie=UTF8&tag=enwil-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B009UXBATS' target='_blank'>Disrupting the Rabblement</a></li>
 			<br>
-			<li>I've made 30 websites till date + counting. 9 on 2012 and rest on 2013.</li>
+			<li>I've made 30 websites till date + counting. 9 on 2012 and rest on 2013 and later.</li>
 			<br>
 			<li>I've revamped <a href="http://storytellerkp.com" target='_blank'>TED X speaker's</a> website</li>
 			<br>
@@ -210,10 +217,11 @@ Template Name: Manish Suwal
 			<li><a href='http://devotepress.com/' target='_blank'>DevotePress</a></li>
 			<li><a href='http://enwil.com/' target='_blank'>Blogging at Enwil.com</a></li>
       <li><a href='http://travelbloggingcalendar.com/' target='_blank'>Travel Blogging Calendar</a></li>
-			<li>One Second Everyday</li>
+			<li><a href='http://enwil.com/one-second-everyday' target='_blank'>One Second Everyday</a></li>
 			<li>750 words everyday</li>
-			<li>Sleep Tracking</li>
+			<li><a href='http://enwil.com/sleep-rules' target='_blank'>Sleep Tracking</a></li>
 			<li>Gratitude Tracking</li>
+			<li>2014 February daily blogging</li>
 	</div>
 </div>
 </body>
