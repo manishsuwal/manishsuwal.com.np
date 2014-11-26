@@ -126,9 +126,9 @@ Template Name: Manish Suwal
 		<div class='single'>Things I'm Learning</div>
 		<ul>
 			<li>Git</li>
-			<li>Programmer's Dvorak</li>
+			<li><s>Programmer's Dvorak</s></li>
 			<li>Programming</li>
-			<li>Spanish</li>
+			<li><s>Spanish</s></li>
 			<li>Social Dynamics</li>
 		</ul>
 	</div>
