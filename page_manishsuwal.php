@@ -224,7 +224,7 @@ Template Name: Manish Suwal
 			<li>750 words everyday</li>
 			<li><a href='http://enwil.com/sleep-rules' target='_blank'>Sleep Tracking</a></li>
 			<li>Gratitude Tracking</li>
-			<li>2014 February daily blogging</li>
+			<li><a href='http://enwil.com/2014/02/' target='_blank'>2014 February daily blogging</a></li>
 	</div>
 </div>
 </body>
