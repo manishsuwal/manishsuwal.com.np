@@ -105,6 +105,9 @@ Template Name: Manish Suwal
 		<div class='single'>WordPress Theme Developer</div>
 		<div class='explain'>I have developed <a href="http://enwil.com/themes/willingness" target="_blank">willingness</a> and <a href="http://enwil.com/themes/enormous" target="_blank">enormous</a> WordPress themes. Willingness is available on <a href="http://wordpress.org/themes/willingness" target="_blank">WordPress theme directory</a></div>
 
+		<div class='single'>WordCamp Nepal 2014 Speaker</div>
+		<div class='explain'>I gave a presentation and spoke about 'Using Git to Manage, Track and Collaborate Your Project' in WordCamp Nepal 2014. You can <a href="http://enwil.com/wordcamp-nepal-2014-journey-as-a-speaker/" tagret="_blank">read about my journey of becoming a speaker in WordCamp.</a></div>
+
     <div class='single'>Web Mastermind & Strategist at <a href='http://travelbloggingcalendar.com/the-team' target='_blank'>Travel Blogging Calendar</a></div>
     <div class='explain'>I have been working on <a href='http://travelbloggingcalendar.com' target='_blank'>Travel Blogging Calendar</a> to get it's online presence in shape. Getting my name tied to a good cause like this has been a major charity milestone to me.</div>
 
