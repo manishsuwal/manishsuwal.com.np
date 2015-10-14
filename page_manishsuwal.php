@@ -138,6 +138,8 @@ Template Name: Manish Suwal
 			<li>Minimalism</li>
 			<li>Stoicism</li>
 			<li>Philosophy</li>
+			<li><a href="http://manishsuwal.vsco.co">Photography</a></li>
+			<li>Video Editing</li>
 			<li>Self-Discipline</li>
 			<li><a href="http://enwil.com/educate-yourself" target="_blank">Self-Education</a></li>
 			<li><a href="http://enwil.com/dvorak" target="_blank">Dvorak</a></li>
