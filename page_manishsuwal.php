@@ -106,7 +106,7 @@ Template Name: Manish Suwal
 		<div class='explain'>I have developed <a href="http://enwil.com/themes/willingness" target="_blank">willingness</a> and <a href="http://enwil.com/themes/enormous" target="_blank">enormous</a> WordPress themes. Willingness is available on <a href="http://wordpress.org/themes/willingness" target="_blank">WordPress theme directory</a></div>
 
 		<div class='single'>WordCamp Nepal 2014 Speaker</div>
-		<div class='explain'>I gave a presentation and spoke about '<a href="http://wordpress.tv/2015/03/09/manish-suwal-using-github-to-organize-projects/">Using Git to Manage, Track and Collaborate Your Project</a>' in WordCamp Nepal 2014. You can <a href="http://enwil.com/wordcamp-nepal-2014-journey-as-a-speaker/" tagret="_blank">read about my journey of becoming a speaker in WordCamp.</a> Also, <a href="https://www.youtube.com/watch?v=Dhy57W9gekU">here's the YouTube video</a> and <a href="http://www.slideshare.net/manishsuwal/using-git-to-organize-your-project">here are the slides of my presentation.</a></div>
+		<div class='explain'>I gave a presentation and spoke about '<a href="http://wordpress.tv/2015/03/09/manish-suwal-using-github-to-organize-projects/">Using Git to Manage, Track and Collaborate Your Project</a>' in WordCamp Nepal 2014. You can <a href="http://enwil.com/wordcamp-nepal-2014-journey-as-a-speaker/" tagret="_blank">read about my journey of becoming a speaker in WordCamp.</a> Also, <a href="https://www.youtube.com/watch?v=Dhy57W9gekU" target='_blank'>here's the YouTube video</a> and <a href="http://www.slideshare.net/manishsuwal/using-git-to-organize-your-project" target='_blank'>here are the slides of my presentation.</a></div>
 
     <div class='single'>Web Mastermind & Strategist at <a href='http://travelbloggingcalendar.com/the-team' target='_blank'>Travel Blogging Calendar</a></div>
     <div class='explain'>I have been working on <a href='http://travelbloggingcalendar.com' target='_blank'>Travel Blogging Calendar</a> to get it's online presence in shape. Getting my name tied to a good cause like this has been a major charity milestone to me.</div>
@@ -175,6 +175,7 @@ Template Name: Manish Suwal
 		<li><a href='http://twitter.com/manishsuwal' target="_blank">Twitter</a></li>
 		<li><a href='https://plus.google.com/u/0/118039990517392424384' target='_blank'>Google+</a></li>
 		<li><a href='http://instagram.com/manishsuwal' target="_blank">Instagram</a></li>
+		<li><a href='http://manishsuwal.vsco.co' target="_blank">VSCO</a></li>
 		<li><a href='http://enwil.com' target="_blank">Blog</a></li>
 		<li><a href='http://enwil.com/about' target="_blank">About Page</a></li>
 		<li><a href='http://github.com/manishsuwal' target="_blank">GitHub</a></li>
