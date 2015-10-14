@@ -223,6 +223,7 @@ Template Name: Manish Suwal
 			<li><a href='http://github.com/manishsuwal/enormous' target='_blank'>Enormous WordPress theme</a></li>
 			<li><a href='http://github.com/manishsuwal/independent-publisher' target='_blank'>Independent-Publisher WordPress theme</a></li>
 			<li><a href='http://devotepress.com/' target='_blank'>DevotePress</a></li>
+			<li><a href='http://dapdesigns.com/' target='_blank'>DAP Designs</a></li>
 			<li><a href='http://enwil.com/' target='_blank'>Blogging at Enwil.com</a></li>
       <li><a href='http://travelbloggingcalendar.com/' target='_blank'>Travel Blogging Calendar</a></li>
 			<li><a href='http://enwil.com/one-second-everyday' target='_blank'>One Second Everyday</a></li>
